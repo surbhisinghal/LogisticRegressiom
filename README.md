@@ -2,6 +2,6 @@
 
 http://openclassroom.stanford.edu/MainFolder/DocumentPage.php?course=MachineLearning&doc=exercises/ex5/ex5.html
 
-2.To run the code 
-	Make sure NumPy and SciPy are installed.
-	run python logreg.py
+2.Make sure NumPy and SciPy are installed.
+
+3.run python logreg.py on command line
